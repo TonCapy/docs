@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+  * [Fun Facts](introduction/fun-facts.md)
+* [Features](features/README.md)
+  * [Play on Telegram](features/play-on-telegram.md)
+  * [Spin](features/spin.md)
+  * [Bush](features/bush.md)
+  * [Ranking System](features/ranking-system.md)
+  * [Race Rewards: Top 50](features/race-rewards-top-50.md)
+  * [Invited friends](features/invited-friends.md)
+  * [Energy Store](features/energy-store.md)
+* [Tokenomics](tokenomics.md)
+* [Social Channel](social-channel.md)
+* [Team](team.md)
+* [Partner](partner.md)
