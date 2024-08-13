@@ -1,16 +1,4 @@
 # Social Channel
 
-| **Social**     | **Link**                                                                           |
-| -------------- | ---------------------------------------------------------------------------------- |
-| Website        | [http://toncapy.com](http://toncapy.com)                                           |
-| Telegram Bot   | [https://t.me/toncapy\_bot](https://t.me/toncapy\_bot)                             |
-| Telegram       | [https://t.me/toncapy\_community](https://t.me/toncapy\_community)                 |
-| Telegram Group | [https://t.me/TonCapyGroup](https://t.me/TonCapyGroup)                             |
-| Twitter        | [https://x.com/Ton\_Capy](https://x.com/Ton\_Capy)                                 |
-| Facebook       | [https://www.facebook.com/TonCapys](https://www.facebook.com/TonCapys)             |
-| Facebook Group | [https://www.facebook.com/groups/toncapy](https://www.facebook.com/groups/toncapy) |
-| Youtube        | [https://www.youtube.com/@TonCapy](https://www.youtube.com/@TonCapy)               |
-| Tiktok         | [https://www.tiktok.com/@toncapy](https://www.tiktok.com/@toncapy)                 |
-| Github         | [https://github.com/TonCapy](https://github.com/TonCapy)                           |
-| Linktr.ee      | [linktr.ee/toncapy](http://linktr.ee/toncapy)                                      |
+<table data-header-hidden><thead><tr><th width="204"></th><th></th></tr></thead><tbody><tr><td><strong>Social</strong></td><td><strong>Link</strong></td></tr><tr><td>Website</td><td><a href="http://toncapy.com">http://toncapy.com</a></td></tr><tr><td>Telegram Bot</td><td><a href="https://t.me/toncapy_bot">https://t.me/toncapy_bot</a></td></tr><tr><td>Telegram</td><td><a href="https://t.me/toncapy_community">https://t.me/toncapy_community</a></td></tr><tr><td>Telegram Group</td><td><a href="https://t.me/TonCapyGroup">https://t.me/TonCapyGroup</a></td></tr><tr><td>Twitter</td><td><a href="https://x.com/Ton_Capy">https://x.com/Ton_Capy</a></td></tr><tr><td>Facebook</td><td><a href="https://www.facebook.com/TonCapys">https://www.facebook.com/TonCapys</a></td></tr><tr><td>Facebook Group</td><td><a href="https://www.facebook.com/groups/toncapy">https://www.facebook.com/groups/toncapy</a></td></tr><tr><td>Youtube</td><td><a href="https://www.youtube.com/@TonCapy">https://www.youtube.com/@TonCapy</a></td></tr><tr><td>Tiktok</td><td><a href="https://www.tiktok.com/@toncapy">https://www.tiktok.com/@toncapy</a></td></tr><tr><td>Github</td><td><a href="https://github.com/TonCapy">https://github.com/TonCapy</a></td></tr><tr><td>Linktr.ee</td><td><a href="http://linktr.ee/toncapy">linktr.ee/toncapy</a></td></tr></tbody></table>
 
