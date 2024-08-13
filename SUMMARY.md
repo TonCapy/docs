@@ -14,6 +14,6 @@
   * [Invited friends](features/invited-friends.md)
   * [Energy Store](features/energy-store.md)
 * [Tokenomics](tokenomics.md)
-* [Social Channel](social-channel.md)
 * [Team](team.md)
 * [Partner](partner.md)
+* [Social Channel](social-channel.md)
