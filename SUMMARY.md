@@ -17,4 +17,4 @@
 * [Team](team.md)
 * [Partner](partner.md)
 * [Social Channel](social-channel.md)
-* [Contact Us](contact-us.md)
+* [Contact](contact.md)
