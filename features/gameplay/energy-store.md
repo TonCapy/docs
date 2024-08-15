@@ -8,3 +8,5 @@ Maximize your spins to climb the leaderboard and secure top rewards.
 
 **Instruction**
 
+{% embed url="https://drive.google.com/file/d/1vq6Uxs0DUQfoIVCh4YRHPJHt0J_cfbxz/view?usp=sharing" %}
+
