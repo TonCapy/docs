@@ -15,6 +15,6 @@
   * [Task](features/task.md)
 * [Tokenomics](tokenomics.md)
 * [Team](team.md)
-* [Partner](partner.md)
+* [Collaborative Partner](collaborative-partner.md)
 * [Social Channel](social-channel.md)
 * [Contact Info](contact-info.md)
