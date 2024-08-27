@@ -19,5 +19,6 @@
 * [Tokenomics](tokenomics.md)
 * [Team](team.md)
 * [Collaborative Partner](collaborative-partner.md)
+* [Milestone](milestone.md)
 * [Social Channel](social-channel.md)
 * [Contact Info](contact-info.md)
