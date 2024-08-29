@@ -13,6 +13,7 @@
     * [Tribe](features/gameplay/tribe/README.md)
       * [Owner](features/gameplay/tribe/owner.md)
       * [Members](features/gameplay/tribe/members.md)
+      * [Creation Process](features/gameplay/tribe/creation-process.md)
   * [Ranking System](features/ranking-system.md)
   * [Invited friends](features/invited-friends.md)
   * [Task](features/task.md)
