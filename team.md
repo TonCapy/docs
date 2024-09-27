@@ -4,9 +4,9 @@
 
 <figure><img src=".gitbook/assets/image.avif" alt="" width="188"><figcaption><p>Lucas Shrewsbury - CTO</p></figcaption></figure>
 
-<figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FaSul79UcMFjVWJzFGp2f%252FCTO.png%3Falt%3Dmedia%26token%3D9763d768-29c9-4252-b0f4-9bdff8fc851d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1928d611&#x26;sv=1" alt="" width="188"><figcaption><p>Lucas Shrewsbury - CTO</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).avif" alt="" width="188"><figcaption><p>Andrew Tate - CFO</p></figcaption></figure>
 
-<figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FJCTGkwk3q6Aq8XhGuv2L%252FCFO.png%3Falt%3Dmedia%26token%3Dd6bb04e2-b1fa-42fc-94b1-b2ee2257f30d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d7d7a573&#x26;sv=1" alt="" width="188"><figcaption><p>Andrew Tate - CFO</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt="" width="188"><figcaption><p>David Goldstein - Head of BD</p></figcaption></figure>
 
 <figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FiLZbNTplSanJlntXupzO%252FCMO.png%3Falt%3Dmedia%26token%3D1c9dfa97-3f23-4dce-b1f4-d1e55b782661&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=58099b22&#x26;sv=1" alt="" width="188"><figcaption><p>Sarah Snyder - CMO</p></figcaption></figure>
 
