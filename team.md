@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/photo_2024-09-27_15-04-10.jpg" alt="" width="188"><figcaption><p>Teddy Nguyen - CEO</p></figcaption></figure>
 
-<figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FXV8Wa8DrrAjDKDgLfM3p%252FCo-founder.png%3Falt%3Dmedia%26token%3Dabf1821a-2029-40af-a336-0443bc3d1399&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=64dbee4c&#x26;sv=1" alt="" width="188"><figcaption><p>Arthur Madrid - Co-founder</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.avif" alt="" width="188"><figcaption><p>Lucas Shrewsbury - CTO</p></figcaption></figure>
 
 <figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FaSul79UcMFjVWJzFGp2f%252FCTO.png%3Falt%3Dmedia%26token%3D9763d768-29c9-4252-b0f4-9bdff8fc851d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1928d611&#x26;sv=1" alt="" width="188"><figcaption><p>Lucas Shrewsbury - CTO</p></figcaption></figure>
 
