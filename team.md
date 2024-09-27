@@ -8,9 +8,7 @@
 
 <figure><img src=".gitbook/assets/image.png" alt="" width="188"><figcaption><p>David Goldstein - Head of BD</p></figcaption></figure>
 
-<figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FiLZbNTplSanJlntXupzO%252FCMO.png%3Falt%3Dmedia%26token%3D1c9dfa97-3f23-4dce-b1f4-d1e55b782661&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=58099b22&#x26;sv=1" alt="" width="188"><figcaption><p>Sarah Snyder - CMO</p></figcaption></figure>
-
-<figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252FdVRckvFd0KJIDHDTV6z4%252FHeadofBD.png%3Falt%3Dmedia%26token%3Db7520ede-69d9-40d7-96ee-2f85438633a9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=17b8d432&#x26;sv=1" alt="" width="188"><figcaption><p>David Goldstein - Head of BD</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="188"><figcaption><p>David Goldstein - Head of B</p></figcaption></figure>
 
 <figure><img src="https://xfish.gitbook.io/~gitbook/image?url=https%3A%2F%2F1281283926-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhDWcVnjVEMvsmf5d6e1Y%252Fuploads%252Fs0hiIGiMrJojQAp1keUe%252FLead%2520Developer.png%3Falt%3Dmedia%26token%3D052ae786-e49b-42ed-a2c7-99b7e4991ec2&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d7367455&#x26;sv=1" alt="" width="188"><figcaption><p>Kenneth Myers - Lead Developer</p></figcaption></figure>
 
