@@ -1,6 +1,6 @@
 # Owner
 
-* **Empower Your Community**: For 10 TON, you can create and own a Tribe, providing a platform to build a vibrant and engaged community.
+* **Empower Your Community**: For 50,000 TCapy, you can create and own a Tribe, providing a platform to build a vibrant and engaged community.
 * **Drive Expansion**: Leverage your channels to draw in new members, enhancing both your Tribe and your community reach.
 * **Advanced Tools for Growth**: Launch campaigns, offer attractive rewards like tCapy and energy, and inspire member contributions.
 *   **Exclusive Owner Benefits**:
