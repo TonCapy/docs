@@ -1,9 +1,7 @@
 # Spin
 
-Experience the thrill of our Spin feature on Telegram, where you can win valuable rewards like TON, USDT, Tcapy, or sometimes nothing at all!
+Players use **Energy** to spin, which can be purchased using **Ton** or **Star** in the store.
 
-Activate your spins with energy.&#x20;
+Prizes include tCapy, Ton, and USDT.
 
-**Instruction**
-
-{% embed url="https://drive.google.com/file/d/1YzEVFH7_ZqOVdUTXwE4W0Z6JBhzMG4lI/view?usp=sharing" %}
+Compete in **Events** to earn more Energy.

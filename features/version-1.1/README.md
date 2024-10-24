@@ -1,2 +1,2 @@
-# Features
+# Version 1.2
 
