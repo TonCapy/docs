@@ -8,7 +8,7 @@ The system will check users' Telegram accounts to determine the account creation
 
 Accounts with a Premium subscription will receive additional Tcapy tokens.
 
-<figure><img src="../.gitbook/assets/3 Home.png" alt=""><figcaption><p>Illustration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 Home.png" alt=""><figcaption><p>Illustration</p></figcaption></figure>
 
 **Instruction**
 
