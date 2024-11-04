@@ -38,6 +38,6 @@
 * [Collaboration](collaboration/README.md)
   * [Partner](collaboration/partner.md)
   * [Project](collaboration/project.md)
-* [Milestone](milestone.md)
+* [Milestones](milestones.md)
 * [Social Channel](social-channel.md)
 * [Contact Info](contact-info.md)
