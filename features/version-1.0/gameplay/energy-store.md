@@ -1,6 +1,10 @@
+---
+description: Unavailable for TON
+---
+
 # Energy Store
 
-Energy is your key to activating spins and earning TON, USDT, and Tcapy.
+Energy is your key to activating spins and earning TON, USDT, and Tcapy
 
 <figure><img src="../../../.gitbook/assets/10 Energy Store.png" alt=""><figcaption><p><strong>Energy Store</strong></p></figcaption></figure>
 

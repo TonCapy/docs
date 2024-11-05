@@ -33,6 +33,7 @@
     * [Ranking System](features/version-1.1/ranking-system.md)
     * [Invited friends](features/version-1.1/invited-friends.md)
     * [Earn](features/version-1.1/earn.md)
+* [Stars Menu](stars-menu.md)
 * [Tokenomics](tokenomics.md)
 * [Team](team.md)
 * [Collaboration](collaboration/README.md)
