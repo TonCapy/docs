@@ -1,6 +1,6 @@
 # Bush
 
-Players spend Ton to occupy a **Bush**, earning **tCapy per second**.
+Players spend Ton to occupy a **Bush** (1 bush = 12 points), earning **tCapy per second**&#x20;
 
 Compete in events to maximize Energy earnings.
 

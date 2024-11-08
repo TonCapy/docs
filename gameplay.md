@@ -1,4 +1,8 @@
-# Play on Telegram
+---
+description: Play on Telegram
+---
+
+# 🕹️ Gameplay
 
 **Telegram Account Age**
 
@@ -8,7 +12,7 @@ The system will check users' Telegram accounts to determine the account creation
 
 Accounts with a Premium subscription will receive additional Tcapy tokens.
 
-<figure><img src="../../.gitbook/assets/3 Home.png" alt=""><figcaption><p>Illustration</p></figcaption></figure>
+_Participate in activities and explore other features in the game to earn more tCapy_
 
 **Instruction**
 

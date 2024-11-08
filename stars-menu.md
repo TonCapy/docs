@@ -2,7 +2,7 @@
 description: Purchase Stars via Fragment or directly on Telegram.
 ---
 
-# Stars Menu
+# 🌟 Stars Menu
 
 To purchase Telegram Stars, please follow these steps:
 

@@ -1,4 +1,4 @@
-# Contact Info
+# 📩 Contact Info
 
 📩 Email: contact@toncapy.com
 

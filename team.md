@@ -1,3 +1,7 @@
+---
+icon: people-group
+---
+
 # Team
 
 <figure><img src=".gitbook/assets/photo_2024-09-27_15-04-10.jpg" alt="" width="188"><figcaption><p>Teddy Nguyen - CEO</p></figcaption></figure>
