@@ -1,7 +1,3 @@
----
-description: Coming soon
----
-
 # Tribe
 
 * **Create and Thrive**: Establish your Tribe, where members work together to accumulate points and earn tokens during airdrop events.

@@ -17,3 +17,7 @@ To purchase Telegram Stars, please follow these steps:
    * Confirm the transaction on the linked wallet.
 
 _**Note**_: To complete transactions on Fragment, you need to have Toncoin (TON) available in your wallet. If you don’t have Toncoin, you can purchase it on cryptocurrency exchanges that support TON.
+
+**Instruction**
+
+{% embed url="https://drive.google.com/file/d/1DulvPJQXLt4ViRRUhl5W8meBIHd522mM/view?usp=drive_link" %}

@@ -5,3 +5,7 @@ Players use **Energy** to spin, which can be purchased using **Star** in the sto
 Prizes include tCapy, Ton, and USDT.
 
 Compete in **Events** to earn more Energy.
+
+**Instruction**
+
+{% embed url="https://drive.google.com/file/d/13r297O-YHtYZw-WPVBqAEabs_46QI-xc/view?usp=drive_link" %}
