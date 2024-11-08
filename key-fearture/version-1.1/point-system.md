@@ -1,6 +1,6 @@
 # Point System
 
-**Points** help players improve their ranking, redeem rewards, unlock special features, participate in airdrops, and support their tribe, creating motivation for engagement and enhancing the game experience.
+In the **TonCapy Point System**, accumulating points is essential, as it directly impacts the number of tokens users receive during airdrops. **The more points you have, the greater your token allocation will be** when the airdrop occurs. This system incentivizes active participation, encouraging users to engage in various activities to maximize their points and boost potential rewards in the TonCapy ecosystem.
 
 Players can collect points through the following activities
 
