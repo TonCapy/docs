@@ -6,6 +6,8 @@ icon: people-group
 
 <figure><img src=".gitbook/assets/Thomas Hoang.png" alt="" width="188"><figcaption><p>Thomas Hoang - Founder</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Lucid Hoang 001.png" alt="" width="188"><figcaption><p>Lucid Hoang - Founder</p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/mr. rob.png" alt="" width="188"><figcaption><p> Mr. Rob - Advisor</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/teddy.png" alt="" width="188"><figcaption><p>Teddy Nguyen - CEO</p></figcaption></figure>
