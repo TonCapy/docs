@@ -1,6 +1,6 @@
 # Task
 
-Earn more tCapy by completing tasks.
+Earn more TCapy by completing tasks.
 
 **Instruction**&#x20;
 

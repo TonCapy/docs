@@ -10,9 +10,9 @@ The system will check users' Telegram accounts to determine the account creation
 
 **Telegram Premium**
 
-Accounts with a Premium subscription will receive additional Tcapy tokens.
+Accounts with a Premium subscription will receive additional TCapy tokens.
 
-_Participate in activities and explore other features in the game to earn more tCapy_
+_Participate in activities and explore other features in the game to earn more TCapy_
 
 **Instruction**
 

@@ -10,7 +10,7 @@ description: TonCapy AKA Capybara
 
 <figure><img src="../.gitbook/assets/photo_2024-08-11_16-29-22.jpg" alt="" width="366"><figcaption><p><strong>Capybara visits various environments, from tropical forests to deserts and oceans</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photo_2024-08-11_16-31-06.jpg" alt="" width="375"><figcaption><p><strong>The friendly Capybara, dressed in a stylish suit and preparing for a diplomatic mission in a vibrant and animated office setting.</strong></p></figcaption></figure>
+<div align="right"><figure><img src="../.gitbook/assets/photo_2024-08-11_16-31-06.jpg" alt="" width="375"><figcaption><p><strong>The friendly Capybara, dressed in a stylish suit and preparing for a diplomatic mission in a vibrant and animated office setting.</strong></p></figcaption></figure></div>
 
 2. **Healing Friend🌟**
 

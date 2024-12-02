@@ -1,6 +1,6 @@
 # Ranking System
 
-Boost your status with our Tcapy index, which calculates users' rankings. Invite friends, spin, and engage in various activities to amass as much Tcapy as possible during each race period. Rankings reset for each new race, but your cumulative Tcapy total at Home continues to grow.
+Boost your status with our TCapy index, which calculates users' rankings. Invite friends, spin, and engage in various activities to amass as much TCapy as possible during each race period. Rankings reset for each new race, but your cumulative TCapy total at Home continues to grow.
 
 {% embed url="https://drive.google.com/file/d/1-khgDoYYhxu7x589rbqsCcebsbdddQX3/view?usp=sharing" %}
 

@@ -1,6 +1,6 @@
 # Home Screen
 
-**Wallet Connect**: Users can connect their wallet through the Wallet Connect feature, which leads them to the Connect Wallet screen. A clock displays the amount of tCapy tokens accumulated during the Airdrop Phase. It also shows detailed criteria for earning points to qualify for the airdrop. Integration with the **OKX Web3 wallet** offers a bonus of 1,000 tCapy tokens.
+**Wallet Connect**: Users can connect their wallet through the Wallet Connect feature, which leads them to the Connect Wallet screen. A clock displays the amount of TCapy tokens accumulated during the Airdrop Phase. It also shows detailed criteria for earning points to qualify for the airdrop. Integration with the **OKX Web3 wallet** offers a bonus of 1,000 TCapy tokens.
 
 **Stats**:
 

@@ -9,5 +9,5 @@
 
 **Task & Partner**:
 
-* Complete tasks to earn tCapy and 2 points, which are added to the Stats Table.
+* Complete tasks to earn TCapy and 2 points, which are added to the Stats Table.
 * Completed tasks are moved to the "Done" tab and cannot be repeated.
