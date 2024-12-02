@@ -43,4 +43,4 @@
   * [Project](collaboration/project.md)
 * [🔥 Milestones](milestones.md)
 * [🌍 Social Channel](social-channel.md)
-* [📩 Contact Info](contact-info.md)
+* [ℹ️ More Information](more-information.md)
