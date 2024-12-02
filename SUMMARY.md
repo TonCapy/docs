@@ -42,5 +42,6 @@
   * [Partner](collaboration/partner.md)
   * [Project](collaboration/project.md)
 * [🔥 Milestones](milestones.md)
+* [🗺️ Roadmap](roadmap.md)
 * [🌍 Social Channel](social-channel.md)
 * [ℹ️ More Information](more-information.md)
