@@ -1,4 +1,0 @@
-# Partner
-
-<table><thead><tr><th width="175">Partner</th><th width="310">Partnership Announcement</th><th>Social Media</th></tr></thead><tbody><tr><td>TON Community</td><td><a href="https://t.me/toncoin/1581">https://t.me/toncoin/1581</a></td><td><a href="https://t.me/toncoin">https://t.me/toncoin</a></td></tr><tr><td>Notcoin</td><td><a href="https://t.me/notcoin_explore/33">https://t.me/notcoin_explore/33</a></td><td><a href="https://t.me/notcoin_explore">https://t.me/notcoin_explore</a></td></tr><tr><td>Adsgram</td><td><a href="https://t.me/adsgram_ai/72">https://t.me/adsgram_ai/72</a></td><td><a href="https://t.me/adsgram_ai">https://t.me/adsgram_ai</a></td></tr><tr><td>StarMajor</td><td><a href="https://t.me/toncapy_community/74">https://t.me/toncapy_community/74</a></td><td><a href="https://t.me/starsmajor">https://t.me/starsmajor</a></td></tr></tbody></table>
-
