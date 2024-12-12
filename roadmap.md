@@ -1,6 +1,6 @@
 # 🗺️ Roadmap
 
-## **Q3 2024**&#x20;
+## **Q2 2024**&#x20;
 
 * &#x20;August 8 2024: Official Open Beta of TonCapy launched.&#x20;
 * &#x20;Idea generation.&#x20;
