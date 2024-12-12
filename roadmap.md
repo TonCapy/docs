@@ -5,29 +5,33 @@
 * &#x20;August 8 2024: Official Open Beta of TonCapy launched.&#x20;
 * &#x20;Idea generation.&#x20;
 * &#x20;Establish core team, develop.&#x20;
-* &#x20;Launch Telegram Mini App.&#x20;
+* &#x20;Launch Telegram Mini App.
 
-## **Q4 2024**&#x20;
+## **Q3 2024**
 
 * Implement Spin, Bush,... features to encourage users to participate in daily events.
 * Implemented the Tribe feature, to encourage users to participate in creating and developing their own meme community.
 * Implement basic marketing strategies.
-* Collab with many other communities that also have active TMA.
+* Collaborate with many other communities that also have active TMA.
+* Collaborate with **Ting Foundation**.
+* Discussion on Investment Partnership Program with **UFIN Labs**
+
+## **Q4 2024**&#x20;
+
 * Run a scoring program for users participating in Airdrop.
 * Collaborate with CEXs to discuss premarket, listing, ...
 * Deploy Airdrop program, distribute tokens to the earliest players.
-* Launch 5 launchpad platforms supporting TonCapy.
-* Announce a list of over 10 CEX listings.
+* Launch **5 launchpad platforms** supporting TonCapy.
+* Announce a list of over **10 CEX** listings.
 * Reveal backers and investors, including **Ting Foundation**.
 
 ## **Q1 2025**&#x20;
 
 * Optimize Spin, Bush, Tribe... features to help users have a better experience.&#x20;
-* Continue to expand the community partner network.
-* Releasing NFT Collectibles and Their Utility.&#x20;
-* Continue to score the activities of users participating in the next phase of Airdrop.&#x20;
-* Discuss and agree on new CEX listing.
-* Official **CEX Listings** for TCapy token.
+* Continue to expand the community partner network.&#x20;
+* Continue to score the activities of users participating in the **next phase of Airdrop**.&#x20;
+* Discuss and agree on **new CEX** listing.
+* Official **CEX Listings** for **TCapy** token.
 * Launch **Ting Market** – NFT Marketplace.
 * Issue **Genesis NFTs** for Ting Market.
 * Launch **Ting Nect** – Web3 Wallet for Telegram.
@@ -36,7 +40,7 @@
 
 ## **Q2 2025**&#x20;
 
-* Open Marketing platform feature for partners, tribe owners. Apply using TCapy token for payment and NFT utilities are enabled.&#x20;
+* Open **Marketing platform** feature for partners, tribe owners. Apply using **TCapy** token for **payment** and NFT utilities are enabled.&#x20;
 * Continue to optimize Spin, Bush, Tribe... features to help users have a better experience. Continue to expand the community partner network.&#x20;
 * Continue to score the activities of users participating in the next phase of Airdrop.&#x20;
 * Discuss and agree on new CEX listing.
