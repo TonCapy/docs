@@ -39,7 +39,7 @@
   * [Allocation](tokenomics/allocation.md)
 * [Team](team.md)
 * [Key Marketing Activities](key-marketing-activities/README.md)
-  * [Collaboration Partner](key-marketing-activities/collaboration-partner.md)
+  * [Key Partner](key-marketing-activities/key-partner.md)
   * [Collaboration Project](key-marketing-activities/collaboration-project.md)
 * [🔥 Milestones](milestones.md)
 * [🗺️ Roadmap](roadmap.md)
