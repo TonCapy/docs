@@ -41,6 +41,7 @@
 * [Key Marketing Activities](key-marketing-activities/README.md)
   * [Key Partner](key-marketing-activities/key-partner.md)
   * [Collaboration Project](key-marketing-activities/collaboration-project.md)
+* [Exchange Listing](exchange-listing.md)
 * [🔥 Milestones](milestones.md)
 * [🗺️ Roadmap](roadmap.md)
 * [🌍 Social Channel](social-channel.md)
