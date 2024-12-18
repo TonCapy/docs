@@ -1,4 +1,8 @@
-# ℹ️ More Information
+---
+icon: square-info
+---
+
+# More Information
 
 📩 Email: contact@toncapy.com
 

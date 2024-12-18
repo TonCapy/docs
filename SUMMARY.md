@@ -56,6 +56,6 @@
   * [Collaboration Project](key-marketing-activities/collaboration-project.md)
 * [Exchange Listing](exchange-listing.md)
 * [🔥 Milestones](milestones.md)
-* [🗺️ Roadmap](roadmap.md)
-* [🌍 Social Channel](social-channel.md)
-* [ℹ️ More Information](more-information.md)
+* [🌍 Roadmap](roadmap.md)
+* [Social Channel](social-channel.md)
+* [More Information](more-information.md)
