@@ -38,6 +38,19 @@
   * [Basic Information](tokenomics/basic-information.md)
   * [Allocation](tokenomics/allocation.md)
 * [Team](team.md)
+* [Backer & Investor](backer-and-investor/README.md)
+  * [Seed](backer-and-investor/seed/README.md)
+    * [Lead Raise](backer-and-investor/seed/lead-raise.md)
+    * [Incubator](backer-and-investor/seed/incubator.md)
+    * [VCs](backer-and-investor/seed/vcs.md)
+  * [Private](backer-and-investor/private/README.md)
+    * [Lead Raise](backer-and-investor/private/lead-raise.md)
+    * [Incubator](backer-and-investor/private/incubator.md)
+    * [VCs](backer-and-investor/private/vcs.md)
+  * [Community](backer-and-investor/community/README.md)
+    * [Lead Raise](backer-and-investor/community/lead-raise.md)
+    * [Incubator](backer-and-investor/community/incubator.md)
+    * [VCs](backer-and-investor/community/vcs.md)
 * [Key Marketing Activities](key-marketing-activities/README.md)
   * [Key Partner](key-marketing-activities/key-partner.md)
   * [Collaboration Project](key-marketing-activities/collaboration-project.md)

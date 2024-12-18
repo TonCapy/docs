@@ -4,12 +4,6 @@ icon: people-group
 
 # Team
 
-<figure><img src=".gitbook/assets/Lucid Hoang 001.png" alt="" width="188"><figcaption><p>Lucid Hoang - Founder</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/Thomas Hoang.png" alt="" width="188"><figcaption><p>Thomas Hoang - Co-Founder</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/mr. rob.png" alt="" width="188"><figcaption><p> Mr. Rob - Advisor</p></figcaption></figure>
-
 <figure><img src=".gitbook/assets/teddy.png" alt="" width="188"><figcaption><p>Teddy Nguyen - CEO</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/minh.png" alt="" width="165"><figcaption><p>Minh Nguyen - CTO </p></figcaption></figure>
@@ -20,7 +14,11 @@ icon: people-group
 
 <figure><img src=".gitbook/assets/sam panzer.png" alt="" width="188"><figcaption><p>Sam Panzer - CGO</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Lucid Hoang 001.png" alt="" width="188"><figcaption><p>Lucid Hoang - Founder</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/mr. rob.png" alt="" width="188"><figcaption><p> Mr. Rob - Advisor</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Thomas Hoang.png" alt="" width="188"><figcaption><p>Thomas Hoang - Co-Founder</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/sara tran .png" alt="" width="188"><figcaption><p>Sara Tran - CM</p></figcaption></figure>
 
