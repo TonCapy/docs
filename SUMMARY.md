@@ -53,6 +53,7 @@
     * [VCs](backer-and-investor/community/vcs.md)
 * [Key Marketing Activities](key-marketing-activities/README.md)
   * [Key Partner](key-marketing-activities/key-partner.md)
+  * [AMAs with Binance Live](key-marketing-activities/amas-with-binance-live.md)
   * [Collaboration Project](key-marketing-activities/collaboration-project.md)
 * [Exchange Listing](exchange-listing.md)
 * [🔥 Milestones](milestones.md)
