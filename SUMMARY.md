@@ -51,10 +51,12 @@
     * [Lead Raise](backer-and-investor/community/lead-raise.md)
     * [Incubator](backer-and-investor/community/incubator.md)
     * [VCs](backer-and-investor/community/vcs.md)
-* [Key Marketing Activities](key-marketing-activities/README.md)
-  * [Key Partner](key-marketing-activities/key-partner.md)
-  * [AMAs with Binance Live](key-marketing-activities/amas-with-binance-live.md)
-  * [Collaboration Project](key-marketing-activities/collaboration-project.md)
+* [Marketing Activities](marketing-activities/README.md)
+  * [Key Marketing Activities](marketing-activities/key-marketing-activities.md)
+  * [AMAs](marketing-activities/amas.md)
+* [Partner](partner/README.md)
+  * [Key Partners](partner/key-partners.md)
+  * [Collaboration Project](partner/collaboration-project.md)
 * [Exchange Listing](exchange-listing.md)
 * [🔥 Milestones](milestones.md)
 * [🌍 Roadmap](roadmap.md)

@@ -2,5 +2,5 @@
 icon: handshake
 ---
 
-# Collaboration
+# Partner
 
