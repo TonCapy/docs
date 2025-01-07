@@ -41,6 +41,7 @@
 ## **Q2 2025**&#x20;
 
 * Open **Marketing platform** feature for partners, tribe owners. Apply using **TCapy** token for **payment** and NFT utilities are enabled.&#x20;
+* Launching TCapy on **Ethereum**, **TON**, and **Ting** Chain.
 * Continue to optimize Spin, Bush, Tribe... features to help users have a better experience. Continue to expand the community partner network.&#x20;
 * Continue to score the activities of users participating in the next phase of Airdrop.&#x20;
 * Discuss and agree on new CEX listing.
