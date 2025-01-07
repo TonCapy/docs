@@ -61,3 +61,4 @@
 * [🌍 Roadmap](roadmap.md)
 * [Social Channel](social-channel.md)
 * [More Information](more-information.md)
+* [Disclaimer](disclaimer.md)
