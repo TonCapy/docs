@@ -63,6 +63,7 @@
 * [More Information](more-information.md)
 * [Disclaimer](disclaimer.md)
 * [💥 Listing](listing/README.md)
+  * [MEXC](listing/mexc.md)
   * [BingX](listing/bingx.md)
   * [Coinstore](listing/coinstore.md)
   * [Bitmart](listing/bitmart.md)
