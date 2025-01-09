@@ -37,7 +37,6 @@
 * [🪙 Tokenomics](tokenomics/README.md)
   * [Basic Information](tokenomics/basic-information.md)
   * [Allocation](tokenomics/allocation.md)
-  * [Page](tokenomics/page.md)
 * [Team](team.md)
 * [Backer & Investor](backer-and-investor/README.md)
   * [Seed](backer-and-investor/seed/README.md)
