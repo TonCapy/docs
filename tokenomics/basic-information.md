@@ -8,7 +8,5 @@
 
 ## Audited by Ting Audit
 
-BSC: [0x045c2767a6cae0a4551f40e4e8d250af94fe056b](https://github.com/TingAudit/Smart-contract-audit/blob/main/TCapy'%20Audit%20BSC%20SMC.pdf)
-
-Ethereum: [0x57604f28a2af0e2fcc1c0570e95731d82b55c730](https://github.com/TingAudit/Smart-contract-audit/blob/main/TCapy'%20Audit%20Ethereum%20SMC.pdf)
-
+* BSC: [0x045c2767a6cae0a4551f40e4e8d250af94fe056b](https://github.com/TingAudit/Smart-contract-audit/blob/main/TCapy'%20Audit%20BSC%20SMC.pdf)
+* Ethereum: [0x57604f28a2af0e2fcc1c0570e95731d82b55c730](https://github.com/TingAudit/Smart-contract-audit/blob/main/TCapy'%20Audit%20Ethereum%20SMC.pdf)
