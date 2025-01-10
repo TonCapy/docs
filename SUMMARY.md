@@ -55,7 +55,6 @@
 * [Partner](partner/README.md)
   * [Key Partners](partner/key-partners.md)
   * [Collaboration Project](partner/collaboration-project.md)
-* [Exchange Listing](exchange-listing.md)
 * [🔥 Milestones](milestones.md)
 * [🌍 Roadmap](roadmap.md)
 * [Social Channel](social-channel.md)
