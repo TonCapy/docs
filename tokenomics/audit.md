@@ -8,9 +8,9 @@ icon: badge-check
 
 <figure><img src="../.gitbook/assets/Team Finance.png" alt="" width="375"><figcaption></figcaption></figure>
 
-{% embed url="https://bscscan.com/tx/0x764e32ca62d2a67660a18f275d4b5a05ebc9058d87db3e924bedd588a3f0747e" %}
+{% embed url="https://bscscan.com/address/0x045c2767a6cae0a4551f40e4e8d250af94fe056b#code" %}
 
-{% embed url="https://etherscan.io/tx/0xbc28ac8fce5d11031476423263bf6f7ba5482df22dac07a9df00b126604e288c" %}
+{% embed url="https://etherscan.io/token/0x57604f28a2Af0e2FCc1C0570e95731d82b55c730#code" %}
 
 ### Audited by Ting Audit
 
