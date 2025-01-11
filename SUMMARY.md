@@ -57,7 +57,9 @@
   * [Key Partners](partner/key-partners.md)
   * [Collaboration Project](partner/collaboration-project.md)
 * [🔥 Milestones](milestones.md)
-* [🌍 Roadmap](roadmap.md)
+* [🌍 Roadmap](roadmap/README.md)
+  * [Airdrop](roadmap/airdrop/README.md)
+    * [Airdrop In-app](roadmap/airdrop/airdrop-in-app.md)
 * [Social Channel](social-channel.md)
 * [More Information](more-information.md)
 * [Disclaimer](disclaimer.md)
